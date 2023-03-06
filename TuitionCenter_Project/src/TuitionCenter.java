@@ -21,7 +21,8 @@ public class TuitionCenter{
             tutors[i] = tutorList[i];
         }
     }
-
+    
+    //Getters for the attributes
     public Name getHeadmasterName(){
         return headmasterName;
     }
